@@ -1,6 +1,5 @@
 # UrbanCloudAI-PY
 
-Versión independiente de UrbanCloud AI con React + Vite + pnpm y backend Python + FastAPI. El proyecto Laravel original en `D:\laragon\www\UrbanCloudAI` se usó solo como referencia. Todos los archivos de esta versión están en `D:\laragon\www\UrbanCloudAI-PY`.
 
 ## Arquitectura
 
